@@ -1,0 +1,15 @@
+{
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#561330",
+    "titleBar.activeBackground": "#791B43",
+    "titleBar.activeForeground": "#FEFCFD"
+  },
+  "cSpell.words": [
+    "fontawesome",
+    "fortawesome",
+    "predeploy",
+    "tailwindcss",
+    "Todos",
+    "uuidv"
+  ]
+}
